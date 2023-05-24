@@ -1,6 +1,6 @@
 # DelishBites -CMPT481 Term Project
 
-DelishBites is an baking application designed to accommodate a users diverse dietary needs and preferences. Our meticulously crafted low/medium fidelity prototype has undergone several design iterations, which incorporate professional design characteristics to ensure a premium user experience. Developed using Figma and Material UI, DelishBites offers a streamlined and aesthetically pleasing interface. Its unique features, enables users to seamlessly follow recipes adhering to dietary restrictions, manage their pantry inventory, and share and like recipes with friends and family. Whether you are an experienced baker or just starting your journey, DelishBites is the app to elevate your baking game.
+DelishBites is an baking application designed to accommodate a users diverse dietary needs and preferences. Our low/medium fidelity prototype has undergone several design iterations, which incorporate professional design characteristics to ensure a premium user experience. Developed using Figma and Material UI, DelishBites enables users to seamlessly follow recipes adhering to dietary restrictions, manage their pantry inventory, and share and like recipes with friends and family.
 
 ## Figma Prototype
 
